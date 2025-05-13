@@ -1,3 +1,13 @@
-Página web de meditación
+Nombre de la página web:
+- Página web de meditación con consejos y videos.
+
+Enlace en vivo:
+- Puedes ver la web publicada en -->
+
+Tecnologías utilizadas:
+- HTML5
+ CSS3
+- Bootstrap (opcional)
+- GitHub Pages para despliegue
 
 Autor: Laura García
