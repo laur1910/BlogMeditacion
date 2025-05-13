@@ -6,8 +6,7 @@ Enlace en vivo:
 
 Tecnologías utilizadas:
 - HTML5
- CSS3
-- Bootstrap (opcional)
+- CSS3
 - GitHub Pages para despliegue
 
 Autor: Laura García
